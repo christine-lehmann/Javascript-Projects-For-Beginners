@@ -72,4 +72,4 @@ else {
 const percent = Math.round((correctAnswers/totalQuestions)*100);
 
 console.log("Congratulations!🎉 You got",correctAnswers, "questions correct!");
-console.log("You score",percent, "percent!🙌🏽");
+console.log("You score",percent.toString() + "%!🙌🏽");
