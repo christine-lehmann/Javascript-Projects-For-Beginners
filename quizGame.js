@@ -4,11 +4,7 @@
 
 const prompt = require("prompt-sync")();
 
-console.log("\t=========================================");
-console.log("\t=                                       =");
-console.log("\t=   WELCOME TO PROGRAMMING QUIZ GAME    =");
-console.log("\t=                                       =");
-console.log("\t=========================================\n");
+console.log("\tW E L C O M E !");
 
 let correctAnswers = 0;
 const totalQuestions = 5;

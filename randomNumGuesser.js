@@ -6,11 +6,7 @@ const prompt = require("prompt-sync")();
 
 const target = Math.round(Math.random()*100);
 
-console.log("\t==========================================");
-console.log("\t=                                        =");
-console.log("\t=    WELCOME TO NUMBER GUESSING GAME     =");
-console.log("\t=                                        =");
-console.log("\t==========================================");
+console.log("\tW E L C O M E !");
 
 let guesses = 0;
 // console.log(target);
