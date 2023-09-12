@@ -6,7 +6,7 @@ const prompt = require("prompt-sync")();
 
 const target = Math.round(Math.random()*100);
 
-console.log("\tW E L C O M E !");
+console.log("\tW E L C O M E !\n");
 
 let guesses = 0;
 // console.log(target);

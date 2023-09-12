@@ -8,7 +8,7 @@ let wins = 0;
 let losses = 0;
 let ties = 0;
 
-console.log("\tW E L C O M E !");
+console.log("\tW E L C O M E !\n");
 
 while(true){
     const playerPick = prompt("Enter rock, paper, scissors (or q to quit): ");

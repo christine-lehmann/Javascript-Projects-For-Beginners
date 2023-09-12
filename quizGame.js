@@ -4,7 +4,7 @@
 
 const prompt = require("prompt-sync")();
 
-console.log("\tW E L C O M E !");
+console.log("\tW E L C O M E !\n");
 
 let correctAnswers = 0;
 const totalQuestions = 5;
